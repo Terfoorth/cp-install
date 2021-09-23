@@ -7,7 +7,8 @@
 #############################################################################
 # VARIABLES
 #############################################################################
-CP_URL="terfoorthr@10.5.20.80:/Volumes/Workspace/Projekt_CP/.ansible"
+CP_URL="
+"
 CP_USER=${USER} 
 CP_INSTALL_DIR="${HOME}/.ansible"
 #CP_FILES_DIR="${CP_INSTALL_DIR}/files"
